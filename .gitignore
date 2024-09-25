@@ -1,0 +1,11 @@
+.texttosqlfast/
+.ipynb_checkpoints/
+__pycache__/
+.texttosqlfast
+.machine
+Dockerfile
+.spyproject
+__pycache__
+.vscode
+.ipynb_checkpoints
+key

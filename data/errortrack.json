@@ -1,0 +1,222 @@
+[
+    {
+        "database_name": "car_1",
+        "role": "Car Manufacturer",
+        "question": "How many cars were manufactured in each year?",
+        "feedback": "Good result.",
+        "rolerating": 4,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 4
+    },
+    {
+        "database_name": "car_1",
+        "role": "Car Manufacturer",
+        "question": "What is the average weight of cars manufactured by each country?",
+        "feedback": "Good result.",
+        "rolerating": 4,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 4
+    },
+    {
+        "database_name": "car_1",
+        "role": "Car Manufacturer",
+        "question": "What is distribution of car makers by country?Also list country name instead of country id",
+        "feedback": "good result",
+        "rolerating": 4,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 4
+    },
+    {
+        "database_name": "school_bus",
+        "role": "Transportation Manager",
+        "question": "What is the average age of all the drivers?",
+        "feedback": "Only one sample. Not good for visualization.",
+        "rolerating": 5,
+        "questionrating": 4,
+        "queryrating": 1,
+        "vizrating": 5
+    },
+    {
+        "database_name": "school_bus",
+        "role": "Transportation Manager",
+        "question": "How many drivers are there in each age group (e.g., 20-30, 30-40, etc.)?",
+        "feedback": "Very good question plus visulization",
+        "rolerating": 5,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "school_bus",
+        "role": "Transportation Manager",
+        "question": "How many drivers are full-time and how many are part-time?",
+        "feedback": "Good query",
+        "rolerating": 5,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "school_bus",
+        "role": "Transportation Manager",
+        "question": "How many drivers are assigned to each school?",
+        "feedback": "Good query",
+        "rolerating": 5,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "railway",
+        "role": "Sales Manager",
+        "question": "What is the total number of trains running on each railway?",
+        "feedback": "Good query",
+        "rolerating": 1,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "railway",
+        "role": "Sales Manager",
+        "question": "What is the average working year start for managers in each country?",
+        "feedback": "Good query",
+        "rolerating": 1,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "railway",
+        "role": "Sales Manager",
+        "question": "How many railways were built in each year?",
+        "feedback": "Good visualization",
+        "rolerating": 1,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "museum_visit",
+        "role": "Museum Manager",
+        "question": "What is the average amount spent per ticket?",
+        "feedback": "Good visualization",
+        "rolerating": 2,
+        "questionrating": 4,
+        "queryrating": 1,
+        "vizrating": 5
+    },
+    {
+        "database_name": "museum_visit",
+        "role": "Museum Manager",
+        "question": "Which museum has the highest number of staff members?",
+        "feedback": "Good query",
+        "rolerating": 2,
+        "questionrating": 4,
+        "queryrating": 3,
+        "vizrating": 5
+    },
+    {
+        "database_name": "imdb",
+        "role": "Movie Critic",
+        "question": "What is the distribution of movies by genre?",
+        "feedback": "Dataset empty",
+        "rolerating": 4,
+        "questionrating": 4,
+        "queryrating": 0,
+        "vizrating": 4
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "count of categories by month and categories",
+        "feedback": "Month not able to extract",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 1,
+        "vizrating": 2
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "count of categories by categories",
+        "feedback": "Good query",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "count of title by client",
+        "feedback": "Good query",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 4,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Recruiter",
+        "question": "count of categories by month and categories. ",
+        "feedback": "good",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Recruiter",
+        "question": "What is the distribution of job postings by category?",
+        "feedback": "good",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Recruiter",
+        "question": "Which job title has the highest number of job postings? Apart from this also list down other top 6 posting and highlight highest in red color and rest blue",
+        "feedback": "awesome",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "Which job title appears most frequently in the database? Also list down top 7 and mark highest with yellow color",
+        "feedback": "awesome",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "Show job posting frequency by each company? Also list down top 7 and mark highest with yellow color",
+        "feedback": "awesome",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    },
+    {
+        "database_name": "hiring",
+        "role": "Job Seeker",
+        "question": "Show each job posting categories frequency by company name \"Microsoft Corporation\"? Also list down top 7 and mark highest with yellow color",
+        "feedback": "awesome",
+        "rolerating": 3,
+        "questionrating": 4,
+        "queryrating": 5,
+        "vizrating": 5
+    }
+]
